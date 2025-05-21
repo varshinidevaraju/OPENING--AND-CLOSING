@@ -66,13 +66,16 @@ plt.show()
 ```
 ## Output:
 ### Display the input Image
-![image](https://github.com/user-attachments/assets/133abaa8-ff21-4be9-9282-bad7a8aa0ae4)
+![5](https://github.com/user-attachments/assets/57a98d7d-f471-4b07-9df5-0292addea4b8)
+
 
 ### Display the result of Opening
-![image](https://github.com/user-attachments/assets/73e8d858-5066-4692-a293-265e44a09e19)
+![6](https://github.com/user-attachments/assets/167931f0-05b1-4ef0-9ed5-3b09663121c1)
+
 
 ### Display the result of Closing
-![image](https://github.com/user-attachments/assets/afb0b301-5d29-4c95-9f9f-a73741f52658)
+![7](https://github.com/user-attachments/assets/35dc6a51-dc04-4829-b2d2-8b28afd1343c)
+
 
 
 ## Result
